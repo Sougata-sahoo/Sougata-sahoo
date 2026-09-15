@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Turning+data+into+intelligent+solutions+🚀;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;NLP+%7C+LLMs+%7C+Generative+AI;Learn+%7C+Build+%7C+Experiment+%7C+Innovate+🔥" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Turning+data+into+intelligent+solutions;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;NLP+%7C+LLMs+%7C+Generative+AI;Learn+%7C+Build+%7C+Experiment+%7C+Innovate" alt="Typing Animation">
 </p>
 
 ---
